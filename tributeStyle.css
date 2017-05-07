@@ -1,0 +1,12 @@
+body{
+  margin: 20px;
+  background-color: white;
+}
+
+#articleText{
+	padding: 50px 0px 30px 20px;
+}
+
+.picture{
+	padding-left:8%;
+}
